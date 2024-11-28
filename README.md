@@ -3,13 +3,16 @@ This is the implementation of the paper "Focus, Distinguish, and Prompt: Unleash
 
 ## Usage
 
-First, [install PyTorch 1.7.1](https://pytorch.org/get-started/locally/) (or later) and torchvision, as well as small additional dependencies.
+First, install [PyTorch 1.7.1](https://pytorch.org/get-started/locally/) (or later) and torchvision, and install the [CLIP](https://github.com/openai/CLIP) as a Python package.
 
 ```bash
 $ conda install --yes -c pytorch pytorch=1.7.1 torchvision cudatoolkit=11.0
 $ pip install ftfy regex tqdm
 $ pip install git+https://github.com/openai/CLIP.git
-$ pip install requirements.txt
+```
+Then, install small additional dependencies.
+```bash
+$ pip install -r requirements.txt
 ```
 
 ## Datasets
