@@ -1,0 +1,7 @@
+mmdet
+scikit-learn
+pillow
+opencv-python
+editdistance
+shapely
+pyclipper
