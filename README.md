@@ -35,6 +35,7 @@ $ python test.py
 ```
 
 ## Citation
+```bash
 @inproceedings{zeng2024focus,
   title={Focus, Distinguish, and Prompt: Unleashing CLIP for Efficient and Flexible Scene Text Retrieval},
   author={Zeng, Gangyan and Zhang, Yuan and Wei, Jin and Yang, Dongbao and Zhang, Peng and Gao, Yiwen and Qin, Xugong and Zhou, Yu},
@@ -42,3 +43,4 @@ $ python test.py
   pages={2525--2534},
   year={2024}
 }
+```
