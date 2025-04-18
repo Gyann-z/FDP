@@ -1,5 +1,5 @@
 # FDP
-This is the implementation of the paper "Focus, Distinguish, and Prompt: Unleashing CLIP for Efficient and Flexible Scene Text Retrieval".
+This is the implementation of the ACM MM 2024 paper "[Focus, Distinguish, and Prompt: Unleashing CLIP for Efficient and Flexible Scene Text Retrieval](https://dl.acm.org/doi/abs/10.1145/3664647.3680877)".
 
 ## Usage
 
